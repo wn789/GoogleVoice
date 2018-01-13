@@ -1,10 +1,10 @@
 # GoogleVoice
 
-说明：http://blog.jialezi.net/GoogleVoice
+说明：https://www.wn789.com/13247.html
 
 
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/jialezi/GoogleVoice/master/gv.sh && chmod +x gv.sh && bash gv.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/wn789/GoogleVoice/master/gv.sh && chmod +x gv.sh && bash gv.sh
 
 ```
 
